@@ -5,21 +5,16 @@
 // O objetivo é utilizar estruturas de repetição e funções para determinar os limites de movimentação dentro do jogo.
 
 int main() {
-
-   printf("--- Movimento da Torre ---\n"); 
-
     
+      printf("--- Movimento da Torre ---\n"); 
+
     for (int i = 1; i <= 5; i++) {
 
-        printf("Direita\n"); 
+        printf("Direita\n"); //
     }
 
-    printf("\n");
+    printf("\n"); 
 
 
-
-    return 0; 
+       return 0; 
 }
-
-
-    
